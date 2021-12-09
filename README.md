@@ -1,3 +1,3 @@
 # TIC-TAC-TOE
 It is a two player game.
-I have given python code ,paste the below code in python comphiler to enjoy the game.
+To enjoy the game paste the below code in c++ comphiler.
